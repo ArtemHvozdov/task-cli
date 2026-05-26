@@ -2,7 +2,7 @@
 
 Task Tracker is an application that allows you to manage and track your tasks. All tasks will be stored in a json file in the root of the project.
 
-![alt text](carbon.png)
+![Example work task-cli app](task_cli.png)
 
 You can:
 - Add tasks
